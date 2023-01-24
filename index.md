@@ -1,7 +1,7 @@
 
 # About
 
-My name is Zi Xuan Zhang, a second year Master Student Computing Science @ University of Alberta, suervised by Prof. Lili Mou. <br />
+My name is Zi Xuan Zhang, a second year Master Student Computing Science @ University of Alberta, supervised by Prof. Lili Mou. <br />
 My research includes Machine Learning and Reasoning in Natural Language Processing.
 
 # Previous
