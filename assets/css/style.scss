@@ -2,12 +2,18 @@
 ---
 
 @import "jekyll-theme-minimal";
+:root {
+    --primary-color:#fff;
+    --secondary-color: #000000;
+    --font-size: 16px;
+    --spacing-unit: 10px;
+  }
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: var(--secondary-color);
 }
 
 nav li {

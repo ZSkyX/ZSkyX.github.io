@@ -1,8 +1,13 @@
 @import "fonts";
 @import "rouge-github";
-
+:root {
+  --primary-color:#fff;
+  --secondary-color: #000000;
+  --font-size: 16px;
+  --spacing-unit: 10px;
+}
 body {
-  background-color: #fff;
+  background-color: var(--primary-color);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -56,6 +61,7 @@ a:hover small {
 }
 
 .wrapper {
+  color: var(--secondary-color);
   width:860px;
   margin:0 auto;
 }
